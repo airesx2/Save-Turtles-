@@ -49,7 +49,7 @@ def para(sea):
 def cover_save(color_list):
     #Name Input
     name = input("Name?")
-    #Random Text color
+    #Set text color
     text_color = saveturtles_color
     #Font Setup
     font_setup = ('Monaco',70)
