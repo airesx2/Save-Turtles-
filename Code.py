@@ -32,7 +32,8 @@ def para(sea):
   #saveturtles text colorinput
   while True: 
     pickcolor = input("what color are the sea turtles?")  
-  
+
+  #collab work
     if pickcolor in color_list:
       global saveturtles_color
       saveturtles_color = pickcolor.lower()
